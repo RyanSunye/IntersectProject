@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/Recent/CppFiles/IntersectProject/Line.cpp
+cmath
+-
+Line.h
+F:/Recent/CppFiles/IntersectProject/Line.h
+
+F:/Recent/CppFiles/IntersectProject/Line.h
+queue
+-
+set
+-
+cmath
+-
+
+F:/Recent/CppFiles/IntersectProject/test/line_intersect_test.cpp
+../Line.h
+F:/Recent/CppFiles/IntersectProject/Line.h
+iostream
+-
+
