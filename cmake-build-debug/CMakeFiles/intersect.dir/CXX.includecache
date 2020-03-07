@@ -6,14 +6,6 @@
 
 #IncludeRegexTransform: 
 
-F:/Recent/CppFiles/IntersectProject/src/Line.cpp
-cmath
--
-iostream
--
-Line.h
-F:/Recent/CppFiles/IntersectProject/src/Line.h
-
 F:/Recent/CppFiles/IntersectProject/src/Line.h
 queue
 -
@@ -29,8 +21,10 @@ set
 -
 vector
 -
-ctime
--
 Line.h
 F:/Recent/CppFiles/IntersectProject/src/Line.h
+fstream
+-
+cstring
+-
 
